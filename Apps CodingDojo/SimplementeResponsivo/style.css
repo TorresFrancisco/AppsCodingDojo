@@ -1,0 +1,46 @@
+p{
+    background-color: gray;
+}
+.sm{
+    background-color: yellow;
+}
+.med{
+    background-color: yellow;
+}
+.lg{
+    background-color: yellow;
+}
+h1{
+    background-color: gray;
+}
+span{
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 480px){
+    .med{
+        display: none;
+    }
+    .lg{
+        display: none;
+    }
+}
+@media only screen and (min-width: 481px){
+    .sm{
+        display: none;
+    }
+    .lg{
+        display: none;
+    }
+}
+@media only screen and (min-width: 1024px){
+    .sm {
+        display: none;
+    }
+    .med{
+        display: none;
+    }
+    .lg{
+        display: inherit;
+}
+}

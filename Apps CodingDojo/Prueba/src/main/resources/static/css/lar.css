@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20%;
+}
+
+label{
+    width: 150px;
+    display: inline-block;
+}
+
+header{
+    margin-bottom: 2%;
+    text-align: center;
+}
+.botoncito{
+    margin-left: 75%;
+}
+

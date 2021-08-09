@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1920px;
+    height: 1080px;
+    background-image: url("https://image.winudf.com/v2/image1/Y29tLmx1eC5saXZlLndhbGxwYXBlcnMuYW5kLmNyZWF0aXZlLmZhY3Rvcnkud2FsbHBhcGVycy5iYWNrZ3JvdW5kcy5oZC5sd3AudHJvcGljYWwubGl2ZS53YWxscGFwZXJfc2NyZWVuXzVfMTU1Mzk3NjYyNl8wODk/screen-5.jpg?fakeurl=1&type=.jpg");
+}
+.oro{
+    margin: 2% 5%;
+    padding: 10px;
+    background: linear-gradient(yellow, red);
+    display: inline-block;
+}
+container{
+    width: auto;
+    height: auto;
+}
+.subcontent{
+    width: 150px;
+    height: 150px;
+    border: 3px solid black ;
+    margin: 5% 5%;
+    padding: 10px;
+    background: linear-gradient(yellow, orange);
+    text-align: center;
+    display: inline-block;
+}
+button{
+    box-shadow: 3px 3px black;
+    padding: 5px;
+}
+.activities{
+    margin-left: 5%;
+}
+textarea{
+    margin-left: 5%;
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    margin-left: 5%;
+    border-radius: 10px;
+    background-color: red;
+    color: aliceblue;
+    padding: 10px;
+    border: 3px solid black ;
+}

@@ -1,0 +1,164 @@
+*{
+    padding: 0px;
+    margin:  0px;
+}
+#container{
+    width: 970px;
+    height: 970px;
+    background-color: white;
+    margin: 0 auto;
+
+}
+#header{
+    width: 970px;
+    height: auto;
+    background-color: black;
+    border-radius: 5px;
+    margin: 5px;
+}
+#header h1{
+    color: aliceblue;
+    display: inline-block;
+}
+#header ul{
+    display: inline-block;
+    margin-left: 100px;
+}
+#header li{
+    color: aliceblue;
+    text-align: right;
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+    vertical-align: top;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#top{
+    width: 970px;
+    height: 300px;
+    background-color:white
+}
+.top_izquierda h2{
+    margin: 20px;
+    font-size: 36px;
+}
+.top_izquierda{
+    width: 500px;
+    height: 200px;
+    vertical-align: top;
+    display: inline-block;
+    margin: 20px;
+}
+.top_izquierda a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding: 5px;
+}
+.imgmain{
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+}
+.separator{
+    border:none;
+    height: 20px;
+    width: 90%;
+    height: 50px;
+    margin-top: 0;
+    border-bottom: 1px solid gray;
+    box-shadow: 0 20px 20px -20px gray;
+    margin: -50px auto 10px; 
+}
+#mid{
+    width: 970px;
+    height: auto;
+    background-color: white;
+}
+.cuadro_chiquito{
+    width: 200px;
+    height: auto;
+    vertical-align: top;
+    display: inline-block;
+    margin: 5px;
+}
+.cuadro_basurero{
+    width: 200px;
+    height: 0px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: white;
+}
+.basurero{
+    margin-left: 200px;
+    margin-top: -500px;
+}
+.mid_b{
+    width: 600px;
+    margin: 10px;
+}
+.rm{
+    padding: 10px;
+    margin-top: 20px;
+}
+#bottom{
+    width: 970px;
+    height: 200px;
+    background-color: #151515;
+    border-radius: 5px;
+    margin: 5px;
+}
+.cuadro_negro{
+    width: 300px;
+    height: auto;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 10px;
+    color: white;
+}
+.cuadro_negro h4{
+    color: white;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.cuadro_negro p{
+    color: white;
+    margin: 5px;
+}
+.cuadro_negro span{
+    color: black;
+}
+.cuadro_negro ul{
+    list-style: none;
+}
+.cuadro_negro li{
+    margin: 2px;
+    color: white;
+}
+.cuadro_negro ul li {
+    border-bottom: 1px solid white;
+}
+footer{
+    text-align: center;
+}
+input{
+    background-color: gray;
+    border: none;
+    margin: 10px;
+    padding: 5px;
+}
+.chiquito{
+    width: 70px;
+}
+.grande{
+    width: 175px;
+}
+.enviar{
+    width: 50px;
+    color: aliceblue;
+}

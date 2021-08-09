@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cuadro{
+    width: 35%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10% 25%;
+}
+
+label{
+    width: 100px;
+    display: inline-block;
+}
+.botoncito{
+    margin-left: 75%;
+}

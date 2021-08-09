@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+}
+h1{
+    color: red;
+    vertical-align: center;
+    margin: 5%;
+}
+button{
+    margin: 2%;
+}

@@ -1,0 +1,60 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   #wrapper{
+    width: 970px;
+    background-color:rgb(27, 52,93);
+    margin: 0 auto;
+    padding: 10px;
+   }
+   #header{
+    min-height: 50px;
+    background-color: rgb(207, 48,54);
+    margin-bottom: 10px;
+    text-align:start;
+    border-radius: 15px;
+    padding: 10px;
+   }
+   #navigation{
+    min-height: 200px;
+    width: 180px;
+    background-color: rgb(41, 125,140);
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 15px;
+    margin-top: 20px;
+    padding: 10px;
+   }
+   #main_content{
+    min-height: 400px;
+    width: 730px;
+    background-color: rgb(14,24,34);
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 15px;
+    padding: 10px;
+   }
+   #footers{
+       min-height: 30px;
+       background-color:rgb(93, 102, 115);
+       margin-top: 20px;
+       border-radius: 15px;
+       padding: 10px;
+   }
+body{
+    color: aliceblue;
+}
+#xd{
+    padding: 8px;
+
+}
+a{
+    color: aqua;
+}
+ul{
+    padding: 15px;
+}

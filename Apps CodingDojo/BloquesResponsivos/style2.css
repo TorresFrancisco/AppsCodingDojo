@@ -1,0 +1,108 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   #wrapper{
+    width: 950px;
+    background-color: silver;
+    margin: 0 auto;
+    padding: 10px;
+   }
+   #header{
+    min-height: 150px;
+    background-color: green;
+    margin-bottom: 10px;
+   }
+   #navigation{
+    min-height: 300px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+    vertical-align: top;
+   }
+   #main_content{
+    min-height: 400px;
+    width: 735px;
+    background-color: red;
+    display: inline-block;
+    vertical-align: top;
+
+
+   }
+   .subcontents{
+    min-height: 200px;
+    width: 210px;
+    background-color: yellow;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+   }
+   #advertisement{
+    min-height: 120px;
+    width: 660px;
+    background-color: purple;
+    display: inline-block;
+    margin: 10px;
+   }
+   @media only screen and (max-width: 480px){
+    #header{
+        width: 35%;
+        height: auto;
+    }
+    #navigation{
+        display: none;
+    }
+    #main_content{
+        width: 35%;
+        height: auto;
+    }
+    .subcontents{
+        width: 93%;
+        height: auto;
+    }
+    #advertisement{
+        width: 93%;
+        height: auto;
+    }
+}
+@media only screen and (min-width: 481px){
+    #header{
+        width: 60%;
+        height: auto;
+    }
+    #navigation{
+        display: none;
+    }
+    #main_content{
+        width: 60%;
+        height: auto;
+    }
+    .subcontents{
+        width: 47%;
+    }
+    #advertisement{
+        width: 95%;
+    }
+}
+@media only screen and (min-width: 1024px){
+    #header{
+        width: auto;
+    }
+    #navigation{
+        display: inline-block;
+    }
+    #main_content{
+        width: 75%;
+        height: auto;
+        margin-left: 33px;
+    }
+    .subcontents{
+        width: 30%;
+    }
+    #advertisement{
+        width: 94%;
+    }
+}
+

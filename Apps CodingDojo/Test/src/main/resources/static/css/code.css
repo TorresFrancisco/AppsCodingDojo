@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 15% 45% ;
+    display: inline-block;
+    vertical-align: center;
+    font-size: 30px;
+}

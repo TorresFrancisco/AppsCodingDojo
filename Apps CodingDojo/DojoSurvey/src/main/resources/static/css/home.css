@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.dato{
+    background: linear-gradient(red,blue);
+    width: auto;
+    height: auto;
+    display: inline-block;
+    vertical-align: center;
+    margin-top: 200px;
+    margin-left: 700px;
+    padding: 100px;
+    text-align: center;
+}
+.submit{
+    border-radius: 5px;
+    background-color: aquamarine;
+    margin-left: 300px;
+    padding: 5px;
+}

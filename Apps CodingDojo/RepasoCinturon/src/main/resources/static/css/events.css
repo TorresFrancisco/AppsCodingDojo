@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    display: inline-block;
+    margin-right: 600px;
+}
+
+#cuadro{
+    width: 35%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+label{
+    width: 100px;
+    display: inline-block;
+}
+.botoncito {
+    background-color: transparent;
+    border: none;
+    text-decoration: underline rgb(0, 128, 192);
+    color: rgb(0, 128, 192);
+}
+.xd{
+    display: inline-block;
+    vertical-align: top;
+}

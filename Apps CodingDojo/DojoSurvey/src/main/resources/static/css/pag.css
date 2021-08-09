@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.info{
+    background: linear-gradient(yellow,aquamarine);
+    width: auto;
+    height: auto;
+    display: inline-block;
+    margin-top: 200px;
+    margin-left: 700px;
+    padding: 100px;
+    text-align: center;
+}

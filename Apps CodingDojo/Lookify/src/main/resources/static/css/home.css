@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    text-align: center;
+    padding: 100px;
+    margin: 50px;
+}
+h1{
+    font-size: 72px;
+}
+br{
+    margin: 500px;
+}

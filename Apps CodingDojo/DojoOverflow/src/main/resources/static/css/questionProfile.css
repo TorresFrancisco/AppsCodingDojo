@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    margin: 2% 0 ;
+}
+#tags{
+    display: inline-block;
+    vertical-align: top;
+}
+button{
+    display: inline-block;
+    vertical-align: top;
+}
+.tabla{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+.tabla2{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 9%;
+}
+.tags{
+    margin-bottom: 5%;
+}
+#botonAzul{
+    margin-left: 60%;
+}

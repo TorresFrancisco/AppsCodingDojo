@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header h1{
+    display: inline-block;
+}
+header a{
+    text-align: right;
+    margin: 1% 0% 0% 65%;
+}
+.cuadrito {
+    background-color: transparent;
+    border: none;
+    text-decoration: underline rgb(0, 128, 192);
+    color: rgb(0, 128, 192);
+}

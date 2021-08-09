@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.search{
+    display: inline-block;
+    margin-left: 65%;
+}
+header{
+    padding: 1%;
+}
+.cuadrito {
+    background-color: transparent;
+    border: none;
+    text-decoration: underline rgb(0, 128, 192);
+    color: rgb(0, 128, 192);
+}
